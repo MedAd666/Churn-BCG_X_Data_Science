@@ -81,4 +81,4 @@ This project aims to predict customer churn using real-world data, focusing on i
 * 
 ---
 
-[![image](Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_MaDxgBf5vvPcZqfvT_1746381670862_completion_certificate.pdf)]
+[![image](certification_bcg.png)]
