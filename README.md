@@ -68,23 +68,6 @@ This project aims to predict customer churn using real-world data, focusing on i
 
 ---
 
-## 📈 Key Results (XGBoost example)
-
-| Metric    | Result |
-| --------- | ------ |
-| Recall    | 50%    |
-| Precision | 16%    |
-| F1 Score  | 24%    |
-| ROC-AUC   | 66%    |
-
-**Business Simulation:**
-
-* Total alerts sent: 1,362
-* True positives: 218
-* False positives: 1,144
-
----
-
 ## ⚠️ Limitations & Challenges
 
 * **Low precision** indicates many false positives, leading to unnecessary marketing interventions.
