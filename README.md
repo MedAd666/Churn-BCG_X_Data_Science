@@ -77,8 +77,7 @@ This project aims to predict customer churn using real-world data, focusing on i
 ## 💡 Recommendations
 
 * Enrich data with additional customer behavior features.
-* Experiment with additional data and feature engineering approaches.
-* 
+* Experiment with additional data and feature engineering approaches. 
 ---
 
 [![image](certification_bcg.png)]
